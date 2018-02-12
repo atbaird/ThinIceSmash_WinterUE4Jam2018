@@ -1,0 +1,1 @@
+This folder will contain the zipped up submission of "Thin Ice Smash" for the Winter UE4 Game Jam 2018.

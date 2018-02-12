@@ -1,0 +1,1 @@
+This folder will contain the UE4 project of "Thin Ice Smash" for the Winter UE4 Game Jam 2018.
